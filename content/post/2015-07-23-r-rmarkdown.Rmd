@@ -12,14 +12,14 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 ```{r, warning=FALSE, message=FALSE, echo=FALSE}
 #Beginning code to install the packages and run the library. Only need to run ONCE at the beginning
-#install.packages('rmarkdown')
-#install.packages('tidyverse')
-#install.packages('devtools')
-#install.packages("opendatatoronto")
+install.packages('rmarkdown')
+install.packages('tidyverse')
+install.packages('devtools')
+install.packages("opendatatoronto")
 library(devtools)
 library(tidyverse)
 library(rmarkdown)
-#devtools::install_github("sharlagelfand/opendatatoronto")
+devtools::install_github("sharlagelfand/opendatatoronto")
 library(opendatatoronto)
 
 ```
