@@ -1,2 +1,3 @@
 # JL-Cao-s-Statistical-blog
-My statistical blog where I analysis and try to interpret real life data
+
+My statistical blog where I try to analysis and interpret real life data
